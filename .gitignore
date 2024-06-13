@@ -1,0 +1,28 @@
+# Dossier serveur
+
+/server/node_modules/*
+
+# Fichiers temporaires
+
+*.tmp
+*.log
+*.cache
+
+# Dossiers IDE
+
+/.idea/
+/.vscode/
+
+# Fichiers de configuration locale
+
+config.json
+.env
+
+# Fichiers de déploiement
+
+build/*
+dist/*
+
+# Fichiers de test
+
+test/*
